@@ -1,4 +1,4 @@
-#Jenkins Pipelin Project!0
+#Jenkins Pipeline Project!
 
 # Setting up Jenkins and Running a "Hello World" Pipeline
 
